@@ -1,0 +1,14 @@
+/home/jivited/Escritorio/Incubadora/certificacionC#/renovacionSuscripcion/bin/Debug/net7.0/renovacionSuscripcion
+/home/jivited/Escritorio/Incubadora/certificacionC#/renovacionSuscripcion/bin/Debug/net7.0/renovacionSuscripcion.deps.json
+/home/jivited/Escritorio/Incubadora/certificacionC#/renovacionSuscripcion/bin/Debug/net7.0/renovacionSuscripcion.runtimeconfig.json
+/home/jivited/Escritorio/Incubadora/certificacionC#/renovacionSuscripcion/bin/Debug/net7.0/renovacionSuscripcion.dll
+/home/jivited/Escritorio/Incubadora/certificacionC#/renovacionSuscripcion/bin/Debug/net7.0/renovacionSuscripcion.pdb
+/home/jivited/Escritorio/Incubadora/certificacionC#/renovacionSuscripcion/obj/Debug/net7.0/renovacionSuscripcion.GeneratedMSBuildEditorConfig.editorconfig
+/home/jivited/Escritorio/Incubadora/certificacionC#/renovacionSuscripcion/obj/Debug/net7.0/renovacionSuscripcion.AssemblyInfoInputs.cache
+/home/jivited/Escritorio/Incubadora/certificacionC#/renovacionSuscripcion/obj/Debug/net7.0/renovacionSuscripcion.AssemblyInfo.cs
+/home/jivited/Escritorio/Incubadora/certificacionC#/renovacionSuscripcion/obj/Debug/net7.0/renovacionSuscripcion.csproj.CoreCompileInputs.cache
+/home/jivited/Escritorio/Incubadora/certificacionC#/renovacionSuscripcion/obj/Debug/net7.0/renovacionSuscripcion.dll
+/home/jivited/Escritorio/Incubadora/certificacionC#/renovacionSuscripcion/obj/Debug/net7.0/refint/renovacionSuscripcion.dll
+/home/jivited/Escritorio/Incubadora/certificacionC#/renovacionSuscripcion/obj/Debug/net7.0/renovacionSuscripcion.pdb
+/home/jivited/Escritorio/Incubadora/certificacionC#/renovacionSuscripcion/obj/Debug/net7.0/renovacionSuscripcion.genruntimeconfig.cache
+/home/jivited/Escritorio/Incubadora/certificacionC#/renovacionSuscripcion/obj/Debug/net7.0/ref/renovacionSuscripcion.dll
